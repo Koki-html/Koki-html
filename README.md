@@ -5,7 +5,7 @@ Soy un desarrollador apasionado por la tecnología y todo lo relacionado con el 
 **Sobre mí:**
 
 * 💻 Aún no me especializo en algún lenguaje en especifico, me encuentro explorando y estudiando 📕
-* 🚀 Estoy trabajando en Financ-IA, un chatbox con inteligencia artificial.
+* 🚀 Estoy estudiando Ing. en Informatica, yendo por el segundo año de la carrera
 * 🌱 Actualmente estoy aprendiendo Python.
 * 🤔 Me interesa la programación web full-stack
 
